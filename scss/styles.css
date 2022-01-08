@@ -393,7 +393,7 @@ a {
 }
 
 .error {
-  background-color: #e4757a;
+  background-color: #34757a;
 }
 
 .info {
@@ -522,7 +522,7 @@ a {
 }
 
 .theme.col-9 {
-  background-color: #e4757a;
+  background-color: #34757a;
 }
 
 .theme.col-10 {
@@ -564,8 +564,8 @@ a {
   padding: 10px 0;
   display: block;
   width: 100%;
-  -webkit-transition: background-color .2s ease-in-out,  color .2s ease-in-out;
-  transition: background-color .2s ease-in-out,  color .2s ease-in-out;
+  -webkit-transition: background-color .2s ease-in-out,  color .2s ease-in-out;
+  transition: background-color .2s ease-in-out,  color .2s ease-in-out;
 }
 
 .nav-link:hover {
